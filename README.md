@@ -6,4 +6,4 @@
 
 ## Free Download APK
 
-You can download [the latest version](https://github.com/BenSagir/ImagrApp/raw/master/output/ImageApp.apk) straight to your android device.
+You can download [the latest version](https://github.com/BenSagir/ImageApp/raw/main/output/ImageApp.apk) straight to your android device.
